@@ -1,4 +1,4 @@
-# DisneyPlusClone 💫
+# Disney Plus - Jetpack Compose Clone 💫
 
 This is a personal project whose goal is to integrate knowledge related to the Android Jetpack Compose library. The project is a "Clone" of Disney Plus with navigation and movie search interactions in TheMovieDb API. 
 
